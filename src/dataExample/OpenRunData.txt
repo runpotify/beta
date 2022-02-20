@@ -1,0 +1,478 @@
+    <Folder>
+    <name><![CDATA[2/21(월) "광화문 시티런"]]></name>
+    <Placemark>
+    <name>광화문역 2번출구 집결</name>
+    <description>짐보관함: 광화문역 2번출구/8번출구</description>
+    <styleUrl>#icon-1823-E65100</styleUrl>
+    <Point>
+        <coordinates>
+        126.9774864,37.5720417,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>광화문으로 이동</name>
+    <styleUrl>#line-000000-3503-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.977422,37.5720077,0
+        126.9770461,37.5718385,0
+        126.9769602,37.575682,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-E65100-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        126.9770692,37.5759778,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>경복궁 한바퀴</name>
+    <styleUrl>#poly-000000-3777-0-nodesc</styleUrl>
+    <Polygon>
+        <outerBoundaryIs>
+        <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+            126.976918,37.5759247,0
+            126.9795787,37.5759417,0
+            126.9796002,37.5790538,0
+            126.9802225,37.5809584,0
+            126.9800937,37.5829309,0
+            126.9783771,37.5837131,0
+            126.9765317,37.5838832,0
+            126.9736779,37.5834411,0
+            126.9737422,37.5803972,0
+            126.9742358,37.5757887,0
+            126.9762528,37.5757547,0
+            126.976918,37.5759247,0
+            </coordinates>
+        </LinearRing>
+        </outerBoundaryIs>
+    </Polygon>
+    #######Place Mark#######
+****************************************************************
+<Folder>
+    <name><![CDATA[2/22(화) "한양대-중랑천"]]></name>
+    <Placemark>
+    <name>한양대역 2번출구 집결</name>
+    <description>짐보관함: 한양대 2번출구 </description>
+    <styleUrl>#icon-1823-F9A825</styleUrl>
+    <Point>
+        <coordinates>
+        127.0436628,37.5559336,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>중랑천으로 이동</name>
+    <styleUrl>#line-000000-2925-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.0436014,37.5560311,0
+        127.0440198,37.553624,0
+        127.0457472,37.5539387,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-F9A825-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        127.0456976,37.5539603,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>성동교-용비교 (왕복)</name>
+    <styleUrl>#line-000000-3696-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.0457472,37.5539387,0
+        127.042654,37.5532594,0
+        127.0394998,37.5524088,0
+        127.0366459,37.551116,0
+        127.034822,37.5498401,0
+        127.034071,37.5485641,0
+        127.0325689,37.5472372,0
+        127.0306377,37.5461313,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/23(수) "판교-탄천"]]></name>
+    <Placemark>
+    <name>판교역 내 GS25앞 집결</name>
+    <description>짐보관함: 판교역1번출구근처</description>
+    <styleUrl>#icon-1823-FFD600</styleUrl>
+    <Point>
+        <coordinates>
+        127.1109112,37.3947036,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>탄천로 까지 이동</name>
+    <styleUrl>#line-000000-3696-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.1112609,37.3946767,0
+        127.1236635,37.3948301,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-FFD600-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        127.1235205,37.394644,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>이매교-수내교 (왕복)</name>
+    <styleUrl>#line-000000-4851-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.1235178,37.3947494,0
+        127.1232389,37.3934879,0
+        127.1216939,37.391408,0
+        127.1181534,37.3875721,0
+        127.114291,37.3838894,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/24(목) "잠실 석촌호수"]]></name>
+    <Placemark>
+    <name>잠실역 1번출구 집결</name>
+    <description>짐보관함: 개찰구 밖, 잠실광역환승센터방향</description>
+    <styleUrl>#icon-1823-0F9D58</styleUrl>
+    <Point>
+        <coordinates>
+        127.1011006,37.5133022,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>석촌호수로 이동</name>
+    <styleUrl>#line-000000-3888-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.101101,37.5132236,0
+        127.100865,37.5128747,0
+        127.100983,37.5124236,0
+        127.1013371,37.5117769,0
+        127.102013,37.5111301,0
+        127.1012083,37.5107982,0
+        127.1006182,37.5105088,0
+        127.1003398,37.5100135,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-0F9D58-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        127.1003398,37.5100135,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>석촌호수 한바퀴</name>
+    <styleUrl>#poly-000000-3501-0-nodesc</styleUrl>
+    <MultiGeometry>
+        <Polygon>
+        <outerBoundaryIs>
+            <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+                127.1037776,37.5094257,0
+                127.1048934,37.5097492,0
+                127.1068889,37.5111449,0
+                127.10764,37.512013,0
+                127.1076185,37.5125746,0
+                127.1071464,37.5131874,0
+                127.1062452,37.512847,0
+                127.1050007,37.5122512,0
+                127.1039278,37.5118768,0
+                127.1027476,37.511213,0
+                127.1026832,37.51043,0
+                127.1029702,37.509807,0
+                127.1037776,37.5094257,0
+            </coordinates>
+            </LinearRing>
+        </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+        <outerBoundaryIs>
+            <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+                127.1029702,37.509807,0
+                127.1028764,37.5098513,0
+                127.1022326,37.5102768,0
+                127.1014816,37.510464,0
+                127.1003014,37.5101747,0
+                127.0987994,37.5094768,0
+                127.0978123,37.5086087,0
+                127.0978123,37.5077066,0
+                127.0979411,37.5068555,0
+                127.0987779,37.5067363,0
+                127.1001083,37.5070427,0
+                127.101782,37.5076044,0
+                127.1026832,37.5084725,0
+                127.1033484,37.5087279,0
+                127.1030909,37.5095449,0
+                127.1029702,37.509807,0
+            </coordinates>
+            </LinearRing>
+        </outerBoundaryIs>
+        </Polygon>
+    </MultiGeometry>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/25(금) "반포 한강코스"]]></name>
+    <Placemark>
+    <name>고속터미널역 8-2 집결</name>
+    <description><![CDATA[집결 후 반포한강공원으로 이동<br>짐보관 : 고속터미널역 3번출구 방향 화장실 옆]]></description>
+    <styleUrl>#icon-1823-0288D1</styleUrl>
+    <Point>
+        <coordinates>
+        127.0046604,37.5062443,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강공원으로 이동</name>
+    <styleUrl>#line-000000-4851-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        127.0043264,37.506055,0
+        127.0020948,37.510821,0
+        126.9991336,37.5095274,0
+        126.9985456,37.5107903,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-0288D1-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        126.9985456,37.5107903,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>잠수교-옥수역 (왕복)</name>
+    <styleUrl>#line-000000-5043-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9990102,37.5105841,0
+        126.9943271,37.5191949,0
+        127.0002923,37.5214754,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/26(토)[1] "용산-노들섬"]]></name>
+    <Placemark>
+    <name>용산역 2번출구 집결</name>
+    <description>짐보관: 용산역 2번출구</description>
+    <styleUrl>#icon-1823-1A237E</styleUrl>
+    <Point>
+        <coordinates>
+        126.9646072,37.529799,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강대교까지 이동</name>
+    <styleUrl>#line-000000-4488-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9646823,37.529799,0
+        126.9656694,37.5291353,0
+        126.9658625,37.5285057,0
+        126.9664204,37.5281484,0
+        126.9668496,37.5279952,0
+        126.9615173,37.5216901,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-1A237E-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        126.9615031,37.5216059,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강대교 - 노들섬 진입</name>
+    <styleUrl>#line-000000-4273-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9615173,37.5216901,0
+        126.9603553,37.5195484,0
+        126.9596686,37.5184592,0
+        126.959454,37.5179146,0
+        126.9605698,37.5176423,0
+        126.9617715,37.5169955,0
+        126.9622864,37.5162977,0
+        126.9610848,37.5161105,0
+        126.9588103,37.5165871,0
+        126.957437,37.5170125,0
+        126.9560637,37.5176423,0
+        126.9550767,37.5183741,0
+        126.9555487,37.5190038,0
+        126.956686,37.5188506,0
+        126.9585957,37.518323,0
+        126.9595399,37.5179316,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>노들섬 한바퀴</name>
+    <styleUrl>#poly-000000-1492-0-nodesc</styleUrl>
+    <Polygon>
+        <outerBoundaryIs>
+        <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+            126.9598617,37.5178465,0
+            126.9590893,37.5180678,0
+            126.9573726,37.5185613,0
+            126.9557848,37.5190719,0
+            126.955141,37.5186634,0
+            126.9552698,37.5181869,0
+            126.9563427,37.5175061,0
+            126.9585957,37.5166211,0
+            126.9615998,37.5160765,0
+            126.9624581,37.5163318,0
+            126.9611707,37.5174891,0
+            126.9598617,37.5178465,0
+            </coordinates>
+        </LinearRing>
+        </outerBoundaryIs>
+    </Polygon>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/26(토)[2] "이촌 한강코스"]]></name>
+    <Placemark>
+    <name>용산역 2번출구 집결</name>
+    <description>짐보관: 용산역 2번출구</description>
+    <styleUrl>#icon-1823-1A237E</styleUrl>
+    <Point>
+        <coordinates>
+        126.9646166,37.5301097,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강대교 까지 이동</name>
+    <styleUrl>#line-000000-3696-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9646823,37.529799,0
+        126.9666922,37.527855,0
+        126.9613707,37.5214733,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-1A237E-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        126.9615031,37.5216059,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강대교-동작대교 (왕복)</name>
+    <styleUrl>#line-000000-3888-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9614143,37.5218988,0
+        126.975276,37.5162144,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+**********************************************
+<Folder>
+    <name><![CDATA[2/27(일) "여의도 한강코스"]]></name>
+    <Placemark>
+    <name>여의나루역 4번출구 집결</name>
+    <description>짐보관: 개찰구 밖, 3번출구 방향</description>
+    <styleUrl>#icon-1823-9C27B0</styleUrl>
+    <Point>
+        <coordinates>
+        126.9328353,37.5265331,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>여의도 한강공원으로 이동</name>
+    <styleUrl>#line-000000-4466-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9324818,37.5270489,0
+        126.9316557,37.5277977,0
+        126.9303575,37.5285464,0
+        126.9294563,37.5291505,0
+        126.9290164,37.5297121,0
+        126.9282547,37.5298142,0
+        126.9281045,37.5299248,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+    <Placemark>
+    <name>준비운동</name>
+    <styleUrl>#icon-1773-9C27B0-nodesc</styleUrl>
+    <Point>
+        <coordinates>
+        126.9280772,37.5300387,0
+        </coordinates>
+    </Point>
+    #######Place Mark#######
+    <Placemark>
+    <name>한강공원-국회의사당 (왕복)</name>
+    <styleUrl>#line-000000-4466-nodesc</styleUrl>
+    <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+        126.9281045,37.5299248,0
+        126.915616,37.5336853,0
+        126.9121828,37.5339575,0
+        </coordinates>
+    </LineString>
+    #######Place Mark#######
+**********************************************

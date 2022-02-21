@@ -1,7 +1,7 @@
 import { React, ReactDOM } from 'react';
 import { Map, MapMarker } from 'react-kakao-maps-sdk';
 
-export default function KakaoMap(){
+export default function KakaoMapTest(){
     return (
       <Map
         center={{ lat: 33.5563, lng: 126.79581 }}

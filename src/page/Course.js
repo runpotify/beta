@@ -1,5 +1,6 @@
 import AppBar from "../component/AppBar";
-import Kakaomap from "../component/Kakaomap";
+import KakaoMapPolyline from "../component/KakaomapPolyline";
+import KakaomapTest from "../component/KakaomapTest";
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
        <AppBar />
       </header>
-      <Kakaomap />
+      <KakaoMapPolyline />
     </div>
   );
 }

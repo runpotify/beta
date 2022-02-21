@@ -7,10 +7,11 @@ import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 
+
 export default function appBar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+      <AppBar position="static" sx={{background: '#111'}}>
         <Toolbar>
           <IconButton
             size="large"
@@ -22,7 +23,7 @@ export default function appBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Runpotify
+            Runpotify Courses
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
